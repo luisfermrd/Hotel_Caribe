@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Hotel Caribe</string>
+    <string name="correo_electronico">Correo electronico</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="iniciar_sesi_n">Iniciar sesión</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="confirmar_contrase_a">Confirmar contraseña</string>
+    <string name="registrar">Registrar</string>
+    <string name="todo">TODO</string>
+    <string name="hotel_caribe">Hotel Caribe</string>
+    <string name="title_activity_inicio">inicio</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="bienvenido">Bienvenido a Hotel Caribe</string>
+    <string name="ayuda">Ayuda</string>
+    <string name="quienes_somos">¿Quienes somos?</string>
+    <string name="metodo_de_pago">Metodo de pago</string>
+    <string name="servicios">Servicios</string>
+    <string name="reservas">Reservas</string>
+    <string name="sucursales">Sucursales</string>
+    <string name="cerra_sesion">Cerra sesion</string>
+    <string name="nombres">Nombres</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="cedula">Cedula</string>
+    <string name="telefono">Telefono</string>
+    <string name="administracion">Administracion</string>
+    <string name="acceder">Acceder</string>
+    <string name="usuario">Usuario</string>
+    <string name="tienes_problemas_con_la_aplicacion">¿Tienes problemas con la aplicacion?</string>
+    <string name="si_tienes_algun_problema_para_realizar_alguna_reserva_o_algun_tipo_de_servicio_verifica_que_estes_conectado_a_internet_y_si_es_necesario_reinicia_la_aplicacion">Si tienes algun problema para realizar alguna reserva o algun tipo de servicio, verifica que estes conectado a internet y si es necesario reinicia la aplicacion.</string>
+    <string name="es_seguro_utilizar_esta_aplicacion">¿Es seguro utilizar esta aplicacion?</string>
+    <string name="cada_dia_estamos_tratando_de_mejorar_aun_mas_la_seguridad_pero_confia_tus_datos_y_transferencias_estan_seguras">Cada dia estamos tratando de mejorar aun mas la seguridad, pero confia! tus datos y transferencias estan seguras.</string>
+    <string name="como_genero_genero_una_reserva">¿Como genero una reserva?</string>
+    <string name="primero_te_debes_dirigir_a_la_seccion_de_sucursales_y_respectivamente_seleccionar_la_sucursal_de_preferencia_y_esta_mostrara_todos_los_planes_que_ofrece_y_aqui_podras_ponerla_al_carrito_donde_te_dara_la_opcion_de_pagar_tu_reserva">Primero te debes dirigir a la seccion de sucursales y respectivamente seleccionar la sucursal de preferencia y esta mostrara todos los planes que ofrece y aqui podras ponerla al carrito donde te dara la opcion de pagar tu reserva</string>
+    <string name="como_agrego_un_servicio">¿Como agrego un servicio?</string>
+    <string name="debes_dirigirte_a_la_seccion_de_servicios_y_podras_elegir_cuales_agregar_al_carrito_donde_luego_podras_cancelar_tus_reservas_y_servicios">Debes dirigirte a la seccion de servicios y podras elegir cuales agregar al carrito, donde luego podras cancelar tus reservas y servicios</string>
+    <string name="tienes_alguna_sugerencia_u_otro_tipo_de_problemas">¿Tienes alguna sugerencia u otro tipo de problemas?</string>
+    <string name="si_tienes_algun_tipo_de_sugerencia_que_nos_ayude_a_mejorar_te_invitamos_a_que_nos_escribas_en_la_direccion_de_correo_que_se_proporciona_al_final_al_igual_encontratas_un_correo_para_algun_tipo_de_quejas_o_si_por_si_tienes_otro_tipo_de_problemas_no_dudes_en_contactarnos">Si tienes algun tipo de sugerencia que nos ayude a mejorar te invitamos a que nos escribas en la direccion de correo que se proporciona al final, al igual encontratas un correo para algun tipo de quejas o si por si tienes otro tipo de problemas, no dudes en contactarnos.</string>
+    <string name="reportar_problemas">Reportar problemas:</string>
+    <string name="soporte_hotelcaribe_com_co">soporte@hotelcaribe.com.co</string>
+    <string name="sugerencias">Sugerencias:</string>
+    <string name="sugerencias_hotelcaribe_com_co">sugerencias@hotelcaribe.com.co</string>
+    <string name="centro_de_ayudas">Centro de ayudas</string>
+    <string name="nombre_sucursal">Nombre sucursal</string>
+    <string name="agregar_al_carrito">Agregar al carrito</string>
+
+    <string-array name="documento">
+        <item>CC</item>
+        <item>CE</item>
+        <item>NIT</item>
+    </string-array>
+
+</resources>

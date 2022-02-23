@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_sucursal"
+            android:icon="@drawable/ic_baseline_apartment_24"
+            android:title="@string/sucursales" />
+        <item
+            android:id="@+id/nav_reservas"
+            android:icon="@drawable/ic_baseline_storefront_24"
+            android:title="@string/reservas" />
+        <item
+            android:id="@+id/nav_metodo_pago"
+            android:icon="@drawable/ic_baseline_payment_24"
+            android:title="@string/metodo_de_pago" />
+        <item
+            android:id="@+id/nav_ayuda"
+            android:icon="@drawable/ic_baseline_help_outline_24"
+            android:title="@string/ayuda" />
+    </group>
+</menu>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "515019019768",
+    "project_id": "hotel-caribe",
+    "storage_bucket": "hotel-caribe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515019019768:android:4b6b7c7bc4a5ce6b49f20d",
+        "android_client_info": {
+          "package_name": "com.hotel.hotelcaribe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515019019768-af9cg5fhe6noordmq43irfsmend4fhfp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTxicMrrEDTPPUdqA4VaaVpAKFEnBvfxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515019019768-af9cg5fhe6noordmq43irfsmend4fhfp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

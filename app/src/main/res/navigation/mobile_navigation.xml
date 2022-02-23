@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_sucursal">
+
+    <fragment
+        android:id="@+id/nav_sucursal"
+        android:name="com.hotel.hotelcaribe.ui.sucursales.sucursales"
+        android:label="Sucursal"
+        tools:layout="@layout/sucursales_fragment" />
+
+    <fragment
+        android:id="@+id/nav_reservas"
+        android:name="com.hotel.hotelcaribe.ui.reservas.reservas"
+        android:label="Reservas"
+        tools:layout="@layout/reservas_fragment" />
+
+    <fragment
+        android:id="@+id/nav_metodo_pago"
+        android:name="com.hotel.hotelcaribe.ui.metodo_pago.metodo_pago"
+        android:label="Metodo de pago"
+        tools:layout="@layout/metodo_pago_fragment" />
+
+    <fragment
+        android:id="@+id/nav_ayuda"
+        android:name="com.hotel.hotelcaribe.ui.ayuda.ayuda"
+        android:label="Ayuda"
+        tools:layout="@layout/ayuda_fragment" />
+</navigation>
